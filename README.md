@@ -45,6 +45,8 @@ Other definitions will be made intuitive as we expand and clarify descriptions f
 
 [Parking Violations Issued - Fiscal Year 2017](https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2017/2bnn-yakx)
 
+You may download the raw data set from [here](https://drive.google.com/open?id=1zM7Lup45yjK6oZ8QLzrDU8BGf6XXdkJt)
+
 We are mostly interested in the data columns that give us information about the violation types and cost, the geography, date and time, ticket-issuing precinct, and vehicle information. These main distinctions allow us to answer most of our business questions. 
 
 ## Design 
